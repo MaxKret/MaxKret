@@ -5,7 +5,7 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- :ox: UT '23 Student, Pursuing GIS track of the Geography Major, with a Minor in CS!
 - 🌱 I’m currently learning everything (No, really!)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
