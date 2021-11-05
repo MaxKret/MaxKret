@@ -27,6 +27,9 @@
 [<img align="left" alt="Node.js"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>][webdevplaylist]
 [<img align="left" alt="HTML5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][webdevplaylist]
 [<img align="left" alt="JSON"  src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />][webdevplaylist]
+
+---
+
 [<img align="left" alt="QGIS"  src="https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][webdevplaylist]
 [<img align="left" alt="Visual Studio"  src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />][webdevplaylist]
