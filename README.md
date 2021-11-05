@@ -7,9 +7,9 @@
 
 - :ox: UT '23 Student, Pursuing GIS track of the Geography Major, with a Minor in CS!
 - 🌱 I’m currently learning everything (No, really!)
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other blooming developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- :musical_note: Fun fact: I love to sing and play guitar / drums
 
 ### Connect with me:
 
