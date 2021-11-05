@@ -19,7 +19,7 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Python" width="26px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][cssplaylist]
+[<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][jsplaylist]
 [<img align="left" alt="Java" width="26px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />][jsplaylist]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][webdevplaylist]
