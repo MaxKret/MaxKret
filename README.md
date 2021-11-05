@@ -19,14 +19,14 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][cssplaylist]
-[<img align="left" alt="numpy"  src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />][webdevplaylist]
-[<img align="left" alt="Java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />][jsplaylist]
-[<img align="left" alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][jsplaylist]
-[<img align="left" alt="ThreeJS"  src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" />][webdevplaylist]
-[<img align="left" alt="Node.js"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>][webdevplaylist]
-[<img align="left" alt="HTML5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][webdevplaylist]
-[<img align="left" alt="JSON"  src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />][webdevplaylist]
+[<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][pyCert]
+<img align="left" alt="numpy"  src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+[<img align="left" alt="Java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />][javaCert]
+<img align="left" alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="left" alt="ThreeJS"  src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" />
+<img align="left" alt="Node.js"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img align="left" alt="HTML5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="JSON"  src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 
 <br />
 
@@ -49,13 +49,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Omen and Phoenix's VALORANT Funtime](https://www.youtube.com/watch?v=D61PjDvBWtw)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...][youtube]
+<img align="left" alt="Max's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MaxKret&show_icons=true&hide_border=true" />
 
 ---
 
@@ -74,19 +68,23 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### 📺 Latest YouTube Videos
 
-  <img align="left" alt="Max's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MaxKret&show_icons=true&hide_border=true" />
+<!-- YOUTUBE:START -->
+- [Omen and Phoenix's VALORANT Funtime](https://www.youtube.com/watch?v=D61PjDvBWtw)
+<!-- YOUTUBE:END -->
 
-</details>
+➡️ [more videos...][youtube]
 
 [website]: https://maxwellkretschmer.tech
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/channel/UC9VMEHvqDSvrmH8DtfVq1rw
-[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/maxwellkretschmer
+[youtube]: https://youtube.com/channel/UC9VMEHvqDSvrmH8DtfVq1rw
+[twitter]: https://twitter.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[pyCert]: https://www.hackerrank.com/certificates/55438d83d86a
+[javaCert]: https://www.hackerrank.com/certificates/401a45cb1b14
+
+[course]: http://vsCodeHero.com
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
