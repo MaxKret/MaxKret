@@ -47,7 +47,6 @@
 
 <!-- YOUTUBE:START -->
 - [Omen and Phoenix's VALORANT Funtime](https://www.youtube.com/watch?v=D61PjDvBWtw)
-- [nigger Pokemon sex](https://www.youtube.com/watch?v=U0GzYXW8S1Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
