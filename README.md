@@ -49,7 +49,7 @@
 - [Omen and Phoenix's VALORANT Funtime](https://www.youtube.com/watch?v=D61PjDvBWtw)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...][youtube]
 
 ---
 
@@ -69,7 +69,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Max's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Max's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MaxKret&show_icons=true&hide_border=true" />
 
 </details>
 
