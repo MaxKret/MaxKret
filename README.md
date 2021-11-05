@@ -73,8 +73,6 @@
 </details>
 
 <br />
----
-<br />
 
 ### 📺 Latest YouTube Videos
 
