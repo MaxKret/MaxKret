@@ -20,21 +20,20 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][cssplaylist]
-[<img align="left" alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][jsplaylist]
+[<img align="left" alt="numpy"  src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />][webdevplaylist]
 [<img align="left" alt="Java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />][jsplaylist]
+[<img align="left" alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][jsplaylist]
+[<img align="left" alt="ThreeJS"  src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" />][webdevplaylist]
+[<img align="left" alt="Node.js"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>][webdevplaylist]
+[<img align="left" alt="HTML5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][webdevplaylist]
+[<img align="left" alt="JSON"  src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />][webdevplaylist]
+[<img align="left" alt="QGIS"  src="https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][webdevplaylist]
 [<img align="left" alt="Visual Studio"  src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />][webdevplaylist]
-[<img align="left" alt="HTML5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][webdevplaylist]
-[<img align="left" alt="numpy"  src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />][webdevplaylist]
-[<img align="left" alt="JSON"  src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />][webdevplaylist]
 [<img align="left" alt="XamarinForms"  src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />][webdevplaylist]
-[<img align="left" alt="Node.js"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>][webdevplaylist]
 [<img align="left" alt="Unity"  src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />][webdevplaylist]
-[<img align="left" alt="ThreeJS"  src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" />][webdevplaylist]
-[<img align="left" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />][webdevplaylist]
-[<img align="left" alt="Terminal"  src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />][webdevplaylist] 
 [<img align="left" alt="GitHub"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][webdevplaylist]
-[<img align="left" alt="QGIS"  src="https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white" />][webdevplaylist]
+[<img align="left" alt="Terminal"  src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />][webdevplaylist] 
 
 
 
