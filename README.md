@@ -1,6 +1,6 @@
-### Hi there, I'm Max 👋
+## Hi there, I'm Max 👋
 
-## I'm a Student, Developer, Gamer, Musician, Teacher, and Boyfriend!!
+### I'm a Student, Developer, Gamer, Musician, Teacher, and Boyfriend!!
 
 - :ox: UT '23 Student, Pursuing GIS track of the Geography Major, with a Minor in CS!
 - 🌱 I’m currently learning everything (No, really!)
@@ -11,8 +11,15 @@
 ## Github Stats and Languages
 
 <img align="left" alt="Max's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MaxKret&show_icons=true&hide_border=true" />
+
+<br />
+
+<br />
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxKret)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<br />
 
 <br />
 
@@ -25,6 +32,9 @@
 [<img align="left" alt=" Instagram"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt=" YouTube"  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 
+<br />
+
+---
 
 <br />
 
