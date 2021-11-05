@@ -79,12 +79,12 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://maxwellkretschmer.tech
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://youtube.com/channel/UC9VMEHvqDSvrmH8DtfVq1rw
 [instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/maxwellkretschmer
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
