@@ -61,7 +61,7 @@
 ---
 
 
-<details>
+<details open>
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
