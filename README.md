@@ -8,6 +8,16 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - :musical_note: Fun fact: I love to sing and play guitar / drums
 
+## Github Stats and Languages
+
+<img align="left" alt="Max's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MaxKret&show_icons=true&hide_border=true" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxKret)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br />
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="maxwellkretschmer.tech"  src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
@@ -49,11 +59,6 @@
 
 ---
 
-<img align="left" alt="Max's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MaxKret&show_icons=true&hide_border=true" />
-
-<br />
-
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
