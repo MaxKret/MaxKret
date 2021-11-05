@@ -36,8 +36,6 @@
 
 ---
 
-<br />
-
 ### Languages and Tools:
 [<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][pyCert]
 [<img align="left" alt="numpy"  src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />](#languages-and-tools)
