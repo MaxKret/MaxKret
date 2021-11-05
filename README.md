@@ -44,7 +44,7 @@
 ### Software and Platforms:
 [<img align="left" alt="QGIS"  src="https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white" />](#software-and-platforms)
 [<img align="left" alt="ArcGIS" src="https://img.shields.io/badge/ArcGIS-Pro-2088FF?style=for-the-badge&logo=qgis&logoColor=white" />](#software-and-platforms)
-[<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />](#software-and-platforms)
+[<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" />](#software-and-platforms)
 [<img align="left" alt="Visual Studio"  src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />](#software-and-platforms)
 [<img align="left" alt="XamarinForms"  src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />](#software-and-platforms)
 [<img align="left" alt="Unity"  src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />](#software-and-platforms)
