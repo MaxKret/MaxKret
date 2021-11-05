@@ -34,6 +34,9 @@
 [<img align="left" alt="Git" width="26px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />][webdevplaylist] 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white" />][webdevplaylist]
+
+
 
 <br />
 <br />
