@@ -13,8 +13,7 @@
 
 <br />
 
-<img align="left" alt="Max's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxkret&langs_count=5&theme=tokyonight)" />
-<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkret&langs_count=5&theme=tokyonight)]() -->
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkret&langs_count=5&theme=tokyonight)]()
 
 <br />
 
