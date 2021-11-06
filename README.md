@@ -65,15 +65,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-2. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. 📔 Created new repository [MaxKret/SchoolProjects](https://github.com/MaxKret/SchoolProjects)
-4. 📔 Created new repository [MaxKret/WebScrapers](https://github.com/MaxKret/WebScrapers)
-5. ⭐ Starred [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+1. ⭐ Starred [badges/shields](https://github.com/badges/shields)
+2. ⭐ Starred [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+3. ⭐ Starred [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+4. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. 📔 Created new repository [MaxKret/SchoolProjects](https://github.com/MaxKret/SchoolProjects)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 5th, 2021, 6:38:25 PM
+Last Updated: Friday, November 5th, 2021, 7:27:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
