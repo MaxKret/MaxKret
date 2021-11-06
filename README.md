@@ -23,6 +23,7 @@
 [<img align="left" alt=" LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt=" Instagram"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt=" YouTube"  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
+[<img align="left" alt=" Twitter"  src="https://img.shields.io/badge/Twitter-FF0000?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 <br />
 
 ---
@@ -89,7 +90,7 @@ Last Updated: Friday, November 5th, 2021, 6:38:25 PM
 [website]: https://maxwellkretschmer.tech
 [linkedin]: https://linkedin.com/in/maxwellkretschmer
 [youtube]: https://youtube.com/channel/UC9VMEHvqDSvrmH8DtfVq1rw
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[twitter]: https://twitter.com/MTKretschmer
+[instagram]: https://instagram.com/mtkret
 [pyCert]: https://www.hackerrank.com/certificates/55438d83d86a
 [javaCert]: https://www.hackerrank.com/certificates/401a45cb1b14
