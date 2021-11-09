@@ -81,7 +81,7 @@ Last Updated: Monday, November 8th, 2021, 7:28:30 PM
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Omen and Phoenix's VALORANT Funtime](https://www.youtube.com/watch?v=D61PjDvBWtw)
+- [Omen and Phoenix&#39;s VALORANT Funtime](https://www.youtube.com/watch?v=D61PjDvBWtw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
