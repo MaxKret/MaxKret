@@ -65,15 +65,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [MaxKret/my_binary_search](https://github.com/MaxKret/my_binary_search)
-2. ⭐ Starred [badges/shields](https://github.com/badges/shields)
-3. ⭐ Starred [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
-4. ⭐ Starred [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-5. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ⭐ Starred [pittcsc/Summer2022-Internships](https://github.com/pittcsc/Summer2022-Internships)
+2. 📔 Created new repository [MaxKret/my_binary_search](https://github.com/MaxKret/my_binary_search)
+3. ⭐ Starred [badges/shields](https://github.com/badges/shields)
+4. ⭐ Starred [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+5. ⭐ Starred [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 14th, 2021, 7:29:10 PM
+Last Updated: Monday, November 15th, 2021, 7:28:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
