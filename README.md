@@ -65,15 +65,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [extrabacon/python-shell](https://github.com/extrabacon/python-shell)
-2. ⭐ Starred [Sentdex/NNfSiX](https://github.com/Sentdex/NNfSiX)
-3. ⭐ Starred [pittcsc/Summer2022-Internships](https://github.com/pittcsc/Summer2022-Internships)
-4. 📔 Created new repository [MaxKret/my_binary_search](https://github.com/MaxKret/my_binary_search)
-5. ⭐ Starred [badges/shields](https://github.com/badges/shields)
+1. ⭐ Starred [rebeccamgriffin/FlaskQuiz](https://github.com/rebeccamgriffin/FlaskQuiz)
+2. ⭐ Starred [extrabacon/python-shell](https://github.com/extrabacon/python-shell)
+3. ⭐ Starred [Sentdex/NNfSiX](https://github.com/Sentdex/NNfSiX)
+4. ⭐ Starred [pittcsc/Summer2022-Internships](https://github.com/pittcsc/Summer2022-Internships)
+5. 📔 Created new repository [MaxKret/my_binary_search](https://github.com/MaxKret/my_binary_search)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 23rd, 2021, 7:29:28 PM
+Last Updated: Wednesday, November 24th, 2021, 7:29:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
