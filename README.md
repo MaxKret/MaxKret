@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything (No, really!)
 - 👯 I’m looking to collaborate with other blooming developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- :musical_note: Fun fact: I love to sing and play guitar / drums
+- :musical_note: Fun fact: I love to sing and play guitar
 
 ## Github Stats and Languages
 <img align="left" alt="Max's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MaxKret&show_icons=true&theme=tokyonight" />
