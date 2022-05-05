@@ -58,7 +58,16 @@
 [<img align="left" alt="GitHub"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](#software-and-platforms)
 [<img align="left" alt="Terminal"  src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />](#software-and-platforms) 
 
+<br />
 
+---
+
+### Portfolio:
+#### School Projects
+[Web Programming Assignments (github)](https://github.com/MaxKret/SchoolProjects/329E-WebProg/)
+[Graphics and Visualization Assignments (github)](https://github.com/MaxKret/SchoolProjects/CS324E-VSCode/)
+[Intro Python 2 Programming Assignments (github)](https://github.com/MaxKret/SchoolProjects/CS313E/)
+[Intro Python 1 Programming Assignments (github)](https://github.com/MaxKret/SchoolProjects/CS303E/)
 
 <br />
 
