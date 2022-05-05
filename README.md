@@ -47,6 +47,8 @@
 
 <br />
 
+<br />
+
 ### Software and Platforms:
 [<img align="left" alt="QGIS"  src="https://img.shields.io/badge/qGIS-93b023?&style=for-the-badge&logo=qgis&logoColor=white" />](#software-and-platforms)
 [<img align="left" alt="ArcGIS" src="https://img.shields.io/badge/ArcGIS_Pro-2088FF?style=for-the-badge&logo=google-earth&logoColor=white" />](#software-and-platforms)
@@ -60,15 +62,24 @@
 
 <br />
 
+<br />
+
 ---
 
 ### Portfolio:
 #### School Projects
- - [Web Programming Assignments (github)](https://github.com/MaxKret/SchoolProjects/329E-WebProg/)
- - [Data Visualization Assignments (github)](https://github.com/MaxKret/SchoolProjects/329E-DataVis/)
- - [Graphics and Visualization Assignments (github)](https://github.com/MaxKret/SchoolProjects/CS324E-VSCode/)
- - [Intro Python 2 Programming Assignments (github)](https://github.com/MaxKret/SchoolProjects/CS313E/)
- - [Intro Python 1 Programming Assignments (github)](https://github.com/MaxKret/SchoolProjects/CS303E/)
+ - [Web Programming (DHTML + PHP/MySQL) Assignments](https://github.com/MaxKret/SchoolProjects/329E-WebProg/)
+ - [Data Visualization (Python) Assignments](https://github.com/MaxKret/SchoolProjects/329E-DataVis/)
+ - [Graphics and Visualization (Processing3 and Python) Assignments](https://github.com/MaxKret/SchoolProjects/CS324E-VSCode/)
+ - [Intro Python 2 Programming Assignments](https://github.com/MaxKret/SchoolProjects/CS313E/)
+ - [Intro Python 1 Programming Assignments](https://github.com/MaxKret/SchoolProjects/CS303E/)
+
+<br />
+
+#### Personal Projects
+ - [QuizGame (Python) (WIP)](https://github.com/MaxKret/QuizGame/)
+ - [Web Scrapers (Python) ](https://github.com/MaxKret/WebScrapers/)
+ - [Binary Search (Python)](https://github.com/MaxKret/my_binary_search/)
 
 <br />
 
