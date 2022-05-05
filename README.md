@@ -64,10 +64,11 @@
 
 ### Portfolio:
 #### School Projects
-[Web Programming Assignments (github)](https://github.com/MaxKret/SchoolProjects/329E-WebProg/)
-[Graphics and Visualization Assignments (github)](https://github.com/MaxKret/SchoolProjects/CS324E-VSCode/)
-[Intro Python 2 Programming Assignments (github)](https://github.com/MaxKret/SchoolProjects/CS313E/)
-[Intro Python 1 Programming Assignments (github)](https://github.com/MaxKret/SchoolProjects/CS303E/)
+ - [Web Programming Assignments (github)](https://github.com/MaxKret/SchoolProjects/329E-WebProg/)
+ - [Data Visualization Assignments (github)](https://github.com/MaxKret/SchoolProjects/329E-DataVis/)
+ - [Graphics and Visualization Assignments (github)](https://github.com/MaxKret/SchoolProjects/CS324E-VSCode/)
+ - [Intro Python 2 Programming Assignments (github)](https://github.com/MaxKret/SchoolProjects/CS313E/)
+ - [Intro Python 1 Programming Assignments (github)](https://github.com/MaxKret/SchoolProjects/CS303E/)
 
 <br />
 
