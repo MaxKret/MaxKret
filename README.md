@@ -13,8 +13,8 @@
 
 <br />
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkret&langs_count=6&exclude_repo=portfolio-website&theme=tokyonight)]()
-
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkret&langs_count=6&hide=jupyter%20notebook&exclude_repo=portfolio-website&theme=tokyonight)]()
+<!-- ,test_codespace,Tensor,NN_from_scratch -->
 ---
 
 ### Connect with me:
