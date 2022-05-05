@@ -13,7 +13,7 @@
 
 <br />
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkret&langs_count=6&exclude_repo=portfolio-website,test_codespace,NN_from_scratch,Tensor&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkret&langs_count=6&exclude_repo=portfolio-website,test_codespace,Tensor&theme=tokyonight)]()
 
 ---
 
