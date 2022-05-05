@@ -9,7 +9,7 @@
 - :musical_note: Fun fact: I love to sing and play guitar
 
 ## Github Stats and Languages
-<img align="left" alt="Max's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MaxKret&show_icons=true&theme=tokyonight" />
+<img align="left" alt="Max's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MaxKret&show_icons=true&theme=tokyonight&count_private=true" />
 
 <br />
 
