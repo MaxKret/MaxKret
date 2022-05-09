@@ -4,8 +4,7 @@
 
 - :ox: UT '23 Student, Pursuing GIS track of the Geography Major, with a Minor in CS!
 - 🌱 I’m currently learning everything (No, really!)
-- 👯 I’m looking to collaborate with other blooming developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects and collaborate with other devs
 - :musical_note: Fun fact: I love to sing and play guitar
 
 ## Github Stats and Languages
@@ -13,7 +12,7 @@
 
 <br />
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkret&custom_title=Most%20Lines%20Written&langs_count=6&hide=jupyter%20notebook&exclude_repo=portfolio-website,test_codespace,Tensor&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkret&custom_title=Lines%20Written&langs_count=6&hide=jupyter%20notebook&exclude_repo=portfolio-website,test_codespace,Tensor&theme=tokyonight)]()
 <!-- ,test_codespace,Tensor,NN_from_scratch -->
 ---
 
