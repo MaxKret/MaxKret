@@ -104,13 +104,7 @@ Last Updated: Sunday, May 8th, 2022, 7:51:55 PM
 
 </details>
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Omen and Phoenix&#39;s VALORANT Funtime](https://www.youtube.com/watch?v=D61PjDvBWtw)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...][youtube]
+<br />
 
 [website]: https://maxwellkretschmer.tech
 [linkedin]: https://linkedin.com/in/maxwellkretschmer
