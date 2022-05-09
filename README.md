@@ -104,7 +104,6 @@ Last Updated: Sunday, May 8th, 2022, 7:51:55 PM
 
 </details>
 
-<br />
 
 [website]: https://maxwellkretschmer.tech
 [linkedin]: https://linkedin.com/in/maxwellkretschmer
