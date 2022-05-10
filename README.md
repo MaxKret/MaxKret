@@ -59,13 +59,15 @@
 [<img align="left" alt="Google Drive API"  src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />](#languages-and-tools)
 [<img align="left" alt="GitHub"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](#software-and-platforms)
 [<img align="left" alt="Terminal"  src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />](#software-and-platforms)
-[<img align="left" alt="Terminal"  src="https://img.shields.io/badge/linux%20terminal-FFFFFF?style=for-the-badge&logo=windows%20terminal&logoColor=4D4D4D" />](#software-and-platforms)
+[<img align="left" alt="Linux"  src="https://img.shields.io/badge/linux%20terminal-FFFFFF?style=for-the-badge&logo=windows%20terminal&logoColor=4D4D4D" />](#software-and-platforms)
 
 <br />
 
 <br />
 
 ---
+
+<br />
 
 ### Portfolio:
 #### School Projects
