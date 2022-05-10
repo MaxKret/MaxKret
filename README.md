@@ -8,7 +8,7 @@
 - :musical_note: Fun fact: I love to sing and play guitar
 
 ## Github Stats and Languages
-<img align="left" alt="Max's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MaxKret&show_icons=true&theme=tokyonight&count_private=true" />
+<img align="left" alt="Max's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MaxKret&show_icons=true&hide=prs,contribs,stars&theme=tokyonight&count_private=true" />
 
 <br />
 
@@ -21,8 +21,8 @@
 [<img align="left" alt=" LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt=" Instagram"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 <!-- [<img align="left" alt=" YouTube"  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube] -->
-<!-- [<img align="left" alt=" Twitter"  src="https://img.shields.io/badge/Twitter-FF0000?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-<br /> -->
+<!-- [<img align="left" alt=" Twitter"  src="https://img.shields.io/badge/Twitter-FF0000?style=for-the-badge&logo=twitter&logoColor=white" />][twitter] -->
+<br />
 
 ---
 
