@@ -95,15 +95,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rebeccamgriffin/FlaskQuiz](https://github.com/rebeccamgriffin/FlaskQuiz)
-2. ⭐ Starred [extrabacon/python-shell](https://github.com/extrabacon/python-shell)
-3. ⭐ Starred [Sentdex/NNfSiX](https://github.com/Sentdex/NNfSiX)
-4. ⭐ Starred [pittcsc/Summer2022-Internships](https://github.com/pittcsc/Summer2022-Internships)
-5. 📔 Created new repository [MaxKret/my_binary_search](https://github.com/MaxKret/my_binary_search)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 8th, 2022, 7:51:55 PM
+Last Updated: Monday, May 9th, 2022, 7:47:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
