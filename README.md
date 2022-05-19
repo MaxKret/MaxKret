@@ -95,11 +95,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [MaxKret/Path-lister-action-recursive](https://github.com/MaxKret/Path-lister-action-recursive) from [Rishabh510/Path-lister-action](https://github.com/Rishabh510/Path-lister-action)
+1. ⭐ Starred [Sentdex/SC2RL](https://github.com/Sentdex/SC2RL)
+2. 🔱 Forked [MaxKret/Path-lister-action-recursive](https://github.com/MaxKret/Path-lister-action-recursive) from [Rishabh510/Path-lister-action](https://github.com/Rishabh510/Path-lister-action)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 17th, 2022, 7:41:53 PM
+Last Updated: Wednesday, May 18th, 2022, 7:59:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
