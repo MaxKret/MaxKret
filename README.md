@@ -97,11 +97,10 @@
   <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [MaxKret/Interview-JS-Test](https://github.com/MaxKret/Interview-JS-Test)
 2. 📔 Created new repository [MaxKret/Interview-Python-Test](https://github.com/MaxKret/Interview-Python-Test)
-3. ⭐ Starred [Sentdex/SC2RL](https://github.com/Sentdex/SC2RL)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 18th, 2022, 7:59:01 PM
+Last Updated: Friday, August 19th, 2022, 7:54:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
