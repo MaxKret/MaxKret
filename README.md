@@ -97,12 +97,10 @@
   <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [1kc/razer-macos](https://github.com/1kc/razer-macos)
 2. 💬 Commented on [#7](https://github.com/ArcadiaPower/arc-quickstart/issues/7#issuecomment-1224302398) in [ArcadiaPower/arc-quickstart](https://github.com/ArcadiaPower/arc-quickstart)
-3. 📔 Created new repository [MaxKret/Interview-JS-Test](https://github.com/MaxKret/Interview-JS-Test)
-4. 📔 Created new repository [MaxKret/Interview-Python-Test](https://github.com/MaxKret/Interview-Python-Test)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 18th, 2022, 8:02:52 PM
+Last Updated: Monday, September 19th, 2022, 8:04:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
