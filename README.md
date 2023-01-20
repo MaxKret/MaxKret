@@ -95,11 +95,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [everdrone/mark-meta-comments](https://github.com/everdrone/mark-meta-comments)
+1. ⭐ Starred [alyabouzaid/SmartCook](https://github.com/alyabouzaid/SmartCook)
+2. ⭐ Starred [everdrone/mark-meta-comments](https://github.com/everdrone/mark-meta-comments)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 18th, 2023, 7:47:58 PM
+Last Updated: Thursday, January 19th, 2023, 7:47:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
