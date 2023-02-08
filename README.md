@@ -95,11 +95,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [alyabouzaid/SmartCook](https://github.com/alyabouzaid/SmartCook)
+1. ⭐ Starred [BTMorton/dnd-5e-srd](https://github.com/BTMorton/dnd-5e-srd)
+2. ⭐ Starred [alyabouzaid/SmartCook](https://github.com/alyabouzaid/SmartCook)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 6th, 2023, 7:48:15 PM
+Last Updated: Tuesday, February 7th, 2023, 7:48:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
