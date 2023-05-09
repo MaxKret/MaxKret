@@ -96,11 +96,10 @@
   
   <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [wychwitch/Obsidian-Dice-Roller-Tables](https://github.com/wychwitch/Obsidian-Dice-Roller-Tables)
-2. ⭐ Starred [BTMorton/dnd-5e-srd](https://github.com/BTMorton/dnd-5e-srd)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 7th, 2023, 7:42:32 PM
+Last Updated: Monday, May 8th, 2023, 7:44:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
