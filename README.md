@@ -95,11 +95,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wychwitch/Obsidian-Dice-Roller-Tables](https://github.com/wychwitch/Obsidian-Dice-Roller-Tables)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 11th, 2023, 7:43:44 PM
+Last Updated: Friday, May 12th, 2023, 7:41:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
