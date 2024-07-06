@@ -95,15 +95,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#5](https://github.com/MaxKret/agol-selectable-symbology/pull/5) in [MaxKret/agol-selectable-symbology](https://github.com/MaxKret/agol-selectable-symbology)
-2. 💪 Opened PR [#5](https://github.com/MaxKret/agol-selectable-symbology/pull/5) in [MaxKret/agol-selectable-symbology](https://github.com/MaxKret/agol-selectable-symbology)
-3. 🎉 Merged PR [#4](https://github.com/MaxKret/agol-selectable-symbology/pull/4) in [MaxKret/agol-selectable-symbology](https://github.com/MaxKret/agol-selectable-symbology)
-4. 💪 Opened PR [#4](https://github.com/MaxKret/agol-selectable-symbology/pull/4) in [MaxKret/agol-selectable-symbology](https://github.com/MaxKret/agol-selectable-symbology)
-5. 🎉 Merged PR [#3](https://github.com/MaxKret/agol-selectable-symbology/pull/3) in [MaxKret/agol-selectable-symbology](https://github.com/MaxKret/agol-selectable-symbology)
+1. 🎉 Merged PR [#6](https://github.com/MaxKret/agol-selectable-symbology/pull/6) in [MaxKret/agol-selectable-symbology](https://github.com/MaxKret/agol-selectable-symbology)
+2. 💪 Opened PR [#6](https://github.com/MaxKret/agol-selectable-symbology/pull/6) in [MaxKret/agol-selectable-symbology](https://github.com/MaxKret/agol-selectable-symbology)
+3. 🎉 Merged PR [#5](https://github.com/MaxKret/agol-selectable-symbology/pull/5) in [MaxKret/agol-selectable-symbology](https://github.com/MaxKret/agol-selectable-symbology)
+4. 💪 Opened PR [#5](https://github.com/MaxKret/agol-selectable-symbology/pull/5) in [MaxKret/agol-selectable-symbology](https://github.com/MaxKret/agol-selectable-symbology)
+5. 🎉 Merged PR [#4](https://github.com/MaxKret/agol-selectable-symbology/pull/4) in [MaxKret/agol-selectable-symbology](https://github.com/MaxKret/agol-selectable-symbology)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 4th, 2024, 7:43:59 PM
+Last Updated: Friday, July 5th, 2024, 7:42:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
