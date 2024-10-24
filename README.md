@@ -97,12 +97,10 @@
   <!--RECENT_ACTIVITY:start-->
 1. 🎉 Merged PR [#8](https://github.com/MaxKret/agol-selectable-symbology/pull/8) in [MaxKret/agol-selectable-symbology](https://github.com/MaxKret/agol-selectable-symbology)
 2. 💪 Opened PR [#8](https://github.com/MaxKret/agol-selectable-symbology/pull/8) in [MaxKret/agol-selectable-symbology](https://github.com/MaxKret/agol-selectable-symbology)
-3. 🎉 Merged PR [#7](https://github.com/MaxKret/agol-selectable-symbology/pull/7) in [MaxKret/agol-selectable-symbology](https://github.com/MaxKret/agol-selectable-symbology)
-4. 💪 Opened PR [#7](https://github.com/MaxKret/agol-selectable-symbology/pull/7) in [MaxKret/agol-selectable-symbology](https://github.com/MaxKret/agol-selectable-symbology)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 22nd, 2024, 7:53:15 PM
+Last Updated: Wednesday, October 23rd, 2024, 7:53:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
